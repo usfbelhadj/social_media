@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "473119903608",
+    "project_id": "netverse-74922",
+    "storage_bucket": "netverse-74922.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473119903608:android:c8fa4c347ba317eafc828d",
+        "android_client_info": {
+          "package_name": "com.alphanetverse.netverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVTkpe3ZHzYLJIT7jm0Dtm-XH9VmZf_rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473119903608:android:40ee80b74b86c392fc828d",
+        "android_client_info": {
+          "package_name": "com.netverse.netverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVTkpe3ZHzYLJIT7jm0Dtm-XH9VmZf_rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
